@@ -14,7 +14,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Azure.Management.Batch" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Azure.Management.Batch" Version="5.0.0" />
     <PackageReference Include="Microsoft.IdentityModel.Clients.ActiveDirectory" Version="3.13.8" />
   </ItemGroup>
 </Project>
