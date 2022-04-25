@@ -23,7 +23,7 @@
     <PackageReference Include="System.Security.Cryptography.Algorithms" Version="4.2.0" />
     <PackageReference Include="System.Collections.Concurrent" Version="4.0.12" />
     <PackageReference Include="System.Linq" Version="4.1.0" />
-	<PackageReference Include="Newtonsoft.Json" Version="9.0.1" />
+	<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
 </Project>
